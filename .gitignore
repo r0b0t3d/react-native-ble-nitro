@@ -13,9 +13,6 @@ dist/
 # Plugin build outputs
 plugin/build/
 
-# Generated Nitro code (regenerated via nitro-codegen)
-nitrogen/generated/
-
 # Testing
 coverage/
 .nyc_output
